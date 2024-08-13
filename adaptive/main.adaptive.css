@@ -1,0 +1,241 @@
+@media screen and (max-width: 1200px) {
+  .bg__header .link__style ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .quality__class{
+     display: flex;
+     flex-wrap: wrap;
+  }
+
+  .investments__class{
+     display: flex;
+     flex-wrap: wrap;
+  }
+
+  .bg__header .place__style {
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+  }
+
+  .bg__header .line__style {
+      text-align: center;
+      padding-top: 15px;
+  }
+
+  .business-center.container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .description__style {
+      padding: 20px;
+  }
+
+  .haracter {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .images__style {
+      margin-bottom: 20px;
+  }
+
+  .quality__class__style {
+      text-align: center;
+      padding: 20px;
+  }
+
+  .location__style img {
+      width: 100%;
+  }
+
+  .global__swiper .swiper {
+      max-width: 100%;
+  }
+
+  .planirovka__style img {
+      width: 100%;
+  }
+
+  .contact-section .input-row {
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  .footer__flex {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .footer__mini__style {
+      margin-bottom: 20px;
+  }
+
+  .footer__global__link {
+      text-align: center;
+  }
+
+  .footer__global__link .link__footer {
+      margin-bottom: 20px;
+  }
+}
+
+/* Адаптивность для планшетов */
+@media screen and (max-width: 768px) {
+  .bg__header .link__style ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .bg__header .place__style {
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+  }
+
+  .bg__header .line__style {
+      text-align: center;
+      padding-top: 15px;
+  }
+
+  .business-center.container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .description__style {
+      padding: 20px;
+  }
+
+  .haracter {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .images__style {
+      margin-bottom: 20px;
+  }
+
+  .quality__class__style {
+      text-align: center;
+      padding: 20px;
+  }
+
+  .location__style img {
+      width: 100%;
+  }
+
+  .global__swiper .swiper {
+      max-width: 100%;
+  }
+
+  .planirovka__style img {
+      width: 100%;
+  }
+
+  .contact-section .input-row {
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  .footer__flex {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .footer__mini__style {
+      margin-bottom: 20px;
+  }
+
+  .footer__global__link {
+      text-align: center;
+  }
+
+  .footer__global__link .link__footer {
+      margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bg__header .link__style ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .bg__header .place__style {
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+  }
+
+  .bg__header .line__style {
+      text-align: center;
+      padding-top: 15px;
+  }
+
+  .business-center.container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .description__style {
+      padding: 20px;
+  }
+
+  .haracter {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .images__style {
+      margin-bottom: 20px;
+  }
+
+  .quality__class__style {
+      text-align: center;
+      padding: 20px;
+  }
+
+  .location__style img {
+      width: 100%;
+  }
+
+  .global__swiper .swiper {
+      max-width: 100%;
+  }
+
+  .planirovka__style img {
+      width: 100%;
+  }
+
+  .contact-section .input-row {
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  .footer__flex {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .footer__mini__style {
+      margin-bottom: 20px;
+  }
+
+  .footer__global__link {
+      text-align: center;
+  }
+
+  .footer__global__link .link__footer {
+      margin-bottom: 20px;
+  }
+}
