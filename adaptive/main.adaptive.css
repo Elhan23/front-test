@@ -7,11 +7,19 @@
 
   .quality__class{
      display: flex;
+     justify-content: center;
      flex-wrap: wrap;
+  }
+
+  .quality__class__style {
+     display: flex;
+     justify-content: center;
+     align-items: center;
   }
 
   .investments__class{
      display: flex;
+     justify-content: center;
      flex-wrap: wrap;
   }
 
